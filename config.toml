@@ -1,4 +1,4 @@
-baseURL = "http://keidroid.github.io/"
+baseURL = "https://keidroid.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "book"

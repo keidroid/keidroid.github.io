@@ -3,21 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://keidroid.github.io/yeah/</loc>
+    <loc>https://keidroid.github.io/docs/my-second-post/</loc>
   </url>
   
   <url>
-    <loc>http://keidroid.github.io/categories/</loc>
+    <loc>https://keidroid.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keidroid.github.io/</loc>
+    <loc>https://keidroid.github.io/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keidroid.github.io/tags/</loc>
+    <loc>https://keidroid.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keidroid.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
